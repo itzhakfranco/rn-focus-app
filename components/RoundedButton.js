@@ -17,6 +17,7 @@ const styles = size =>
       width: size,
       height: size,
       alignItems: 'center',
+      justifyContent: 'center',
       borderColor: 'white',
       borderWidth: 2,
     },
